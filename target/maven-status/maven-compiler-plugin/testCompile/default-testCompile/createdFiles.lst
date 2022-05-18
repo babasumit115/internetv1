@@ -1,0 +1,7 @@
+com\selelnium\TestCase\BaseClass.class
+com\selelnium\PageObject\LoginPage.class
+com\selelnium\TestCase\TC_LoginTest_001.class
+com\selenium\utilites\XLUtils.class
+com\selelnium\TestCase\TestCase2_DataProvider.class
+com\selelnium\TestCase\AlertDemo.class
+com\selenium\utilites\ReadConfig.class
